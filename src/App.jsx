@@ -31,6 +31,9 @@ function App() {
       <p>
         Hola desde React!
       </p>
+      <p>
+        Bienvenidos al ciclo 01-2025
+      </p>
     </>
   )
 }
