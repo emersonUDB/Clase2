@@ -32,7 +32,7 @@ function App() {
         Hola desde React!
       </p>
       <p>
-        Bienvenidos al ciclo 01-2025
+        Bienvenidos al ciclo 01-2025!
       </p>
     </>
   )
