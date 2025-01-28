@@ -31,6 +31,9 @@ function App() {
       <p>
         Hola desde React!
       </p>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Et minus magni eveniet rem modi molestias nisi debitis, natus vel, velit animi beatae quibusdam impedit inventore accusamus laudantium quasi labore? Deserunt.
+      </p>
     </>
   )
 }
